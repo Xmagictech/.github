@@ -1,6 +1,6 @@
 <a href="https://github.com/connornishijima/Pixie_Chroma/#readme" ><img src="wavescode.gif"></a>
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hello! Peepss <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=CodewavesIT+ver+2.0%2C+Student+Developer;Aspiring+Front-end+Web+Developer)](https://git.io/typing-svg)
 
