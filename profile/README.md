@@ -1,4 +1,4 @@
-<a href="https://github.com/connornishijima/Pixie_Chroma/#readme" ><img src="wavescode.gif"></a>
+<a href="https://github.com/connornishijima/Pixie_Chroma/#readme" ><img src="spalsh.gif"></a>
 
 # Hello! Guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
